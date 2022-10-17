@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibrary.a CMakeFiles/library.dir/src/knn.cpp.o
+/usr/bin/ranlib liblibrary.a

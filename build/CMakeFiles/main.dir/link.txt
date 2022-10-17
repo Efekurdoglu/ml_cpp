@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/main.dir/knn/src/main.cpp.o -o main  liblibraries.a knn/liblibrary.a kmeans/liblibrary2.a 

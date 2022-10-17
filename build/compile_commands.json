@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/harfleurlex/ml_cpp/build",
+  "command": "/usr/bin/c++  -I/home/harfleurlex/ml_cpp/include -I/home/harfleurlex/ml_cpp/knn/include -I/home/harfleurlex/ml_cpp/kmeans/include -g -std=gnu++17 -o CMakeFiles/libraries.dir/src/data.cpp.o -c /home/harfleurlex/ml_cpp/src/data.cpp",
+  "file": "/home/harfleurlex/ml_cpp/src/data.cpp"
+},
+{
+  "directory": "/home/harfleurlex/ml_cpp/build",
+  "command": "/usr/bin/c++  -I/home/harfleurlex/ml_cpp/include -I/home/harfleurlex/ml_cpp/knn/include -I/home/harfleurlex/ml_cpp/kmeans/include -g -std=gnu++17 -o CMakeFiles/libraries.dir/src/data_handler.cpp.o -c /home/harfleurlex/ml_cpp/src/data_handler.cpp",
+  "file": "/home/harfleurlex/ml_cpp/src/data_handler.cpp"
+},
+{
+  "directory": "/home/harfleurlex/ml_cpp/build",
+  "command": "/usr/bin/c++  -I/home/harfleurlex/ml_cpp/include -I/home/harfleurlex/ml_cpp/knn/include -I/home/harfleurlex/ml_cpp/kmeans/include -g -std=gnu++17 -o CMakeFiles/libraries.dir/src/coheir.cpp.o -c /home/harfleurlex/ml_cpp/src/coheir.cpp",
+  "file": "/home/harfleurlex/ml_cpp/src/coheir.cpp"
+},
+{
+  "directory": "/home/harfleurlex/ml_cpp/build",
+  "command": "/usr/bin/c++  -I/home/harfleurlex/ml_cpp/include -I/home/harfleurlex/ml_cpp/knn/include -I/home/harfleurlex/ml_cpp/kmeans/include -g -std=gnu++17 -o CMakeFiles/main.dir/knn/src/main.cpp.o -c /home/harfleurlex/ml_cpp/knn/src/main.cpp",
+  "file": "/home/harfleurlex/ml_cpp/knn/src/main.cpp"
+},
+{
+  "directory": "/home/harfleurlex/ml_cpp/build/knn",
+  "command": "/usr/bin/c++  -I/home/harfleurlex/ml_cpp/knn/include -g -std=gnu++17 -o CMakeFiles/library.dir/src/knn.cpp.o -c /home/harfleurlex/ml_cpp/knn/src/knn.cpp",
+  "file": "/home/harfleurlex/ml_cpp/knn/src/knn.cpp"
+},
+{
+  "directory": "/home/harfleurlex/ml_cpp/build/kmeans",
+  "command": "/usr/bin/c++  -I/home/harfleurlex/ml_cpp/kmeans/include -g -std=gnu++17 -o CMakeFiles/library2.dir/src/kmeans.cpp.o -c /home/harfleurlex/ml_cpp/kmeans/src/kmeans.cpp",
+  "file": "/home/harfleurlex/ml_cpp/kmeans/src/kmeans.cpp"
+}
+]
