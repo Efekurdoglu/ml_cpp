@@ -1,4 +1,7 @@
-# include "data_handler.h"
+//  Created by Efe Kurdoglu, efekurdoglu@outlook.com on 6/11/2022.
+//  Copyright © 2022 Efe Kurdoglu. All rights reserved.
+
+#include "data_handler.h"
 
 data_handler::data_handler()
 {

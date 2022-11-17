@@ -1,3 +1,6 @@
+//  Created by Efe Kurdoglu, efekurdoglu@outlook.com on 6/11/2022.
+//  Copyright © 2022 Efe Kurdoglu. All rights reserved.
+
 #include "../include/knn.h"
 #include <cmath>
 #include <limits>
