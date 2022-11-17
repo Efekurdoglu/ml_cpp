@@ -17,7 +17,13 @@ add_subdirectory(knn)
 add_subdirectory(kmeans)
 
 add_executable(main
-            knn/src/main.cpp) 
+            src/main.cpp) 
+
+# add_executable(main
+#             knn/src/main.cpp) 
+
+# add_executable(main
+#             kmeans/src/main.cpp) 
             
 target_include_directories(libraries PUBLIC include knn/include kmeans/include)
 target_link_libraries(main PUBLIC libraries library library2)
