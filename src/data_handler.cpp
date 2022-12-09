@@ -37,6 +37,7 @@ void data_handler::read_feature_vector(std::string path)
         }
 
         std::cout << "Done getting input file header." << std::endl;
+        
         int image_size = header[2]*header[3];
 
         for(int i = 0; i < header[1]; i++)
@@ -51,7 +52,7 @@ void data_handler::read_feature_vector(std::string path)
                     d->append_to_feature_vector(element[0]);
                 } else
                 {
-                    std::cout << "Error Reading from File." << std::endl;
+                    std::cout << "Error Reading from File." << j << std::endl;
                     exit(1);
                 }
             }
