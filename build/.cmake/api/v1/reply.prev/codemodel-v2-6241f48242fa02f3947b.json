@@ -1,0 +1,140 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						5
+					]
+				},
+				{
+					"build" : "knn",
+					"jsonFile" : "directory-knn-9005a2835d15ad58f7aa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "knn",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "kmeans",
+					"jsonFile" : "directory-kmeans-00f7bd996f43ff7f8807.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "kmeans",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "ML_CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KMEANSMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KMEANSMain-de42f45b81458bbb5549.json",
+					"name" : "KMEANSMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KNNMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KNNMain-967ba7d5552eae7c2888.json",
+					"name" : "KNNMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libraries::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libraries-11253211e8eb6e521780.json",
+					"name" : "libraries",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "library::@b7de40f0fc58ee136499",
+					"jsonFile" : "target-library-8d9bd105bebebd198fd6.json",
+					"name" : "library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "library2::@67749449108dc5176e43",
+					"jsonFile" : "target-library2-9b39cdd6d6dbe17e9c2e.json",
+					"name" : "library2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-14dd90cd61f8bc6310d9.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lexpai/ml_cpp/build",
+		"source" : "/home/lexpai/ml_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
