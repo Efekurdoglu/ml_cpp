@@ -1,14 +1,13 @@
-//  Created by Efe Kurdoglu, efekurdoglu@outlook.com on 6/11/2022.
+//  Created by Efe Kurdoglu, efe@lexpai.com on 6/11/2022.
 //  Copyright © 2022 Efe Kurdoglu. All rights reserved.
 
-#include "../include/knn.h"
+#include "knn.h"
 #include <cmath>
 #include <limits>
 #include <map>
 #include <iostream>
-#include "../../include/data_handler.h"
-#include "../../include/data.h"
-#include "../../include/coheir.h"
+#include "data.h"
+// #include "../../include/data.h"
 
 knn::knn(int val)
 {

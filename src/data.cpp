@@ -1,4 +1,4 @@
-//  Created by Efe Kurdoglu, efekurdoglu@outlook.com on 6/11/2022.
+//  Created by Efe Kurdoglu, efe@lexpai.com on 6/11/2022.
 //  Copyright © 2022 Efe Kurdoglu. All rights reserved.
 
 #include "data.h"

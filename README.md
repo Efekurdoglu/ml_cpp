@@ -7,6 +7,7 @@ https://www.udemy.com/course/machine-learning-in-cpp/?src=sac&kw=machine+learnin
 
 # clone and build repo
  $ git clone https://github.com/Efekurdoglu/ml_cpp.git
+ $ cd ml_cpp
  $ mkdir build
  $ cd build
  $ cmake ..

@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <iostream>
-
+#include <cstdint>
 class data
 {
     std::vector<uint8_t> * feature_vector;
